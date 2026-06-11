@@ -1,0 +1,10 @@
+#frontend
+/frontend/node_modules
+
+#backend
+/backend/target
+
+# ! must not change. !
+/frontend/.env
+/backend/.env
+# ! must not change. !
