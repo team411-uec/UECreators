@@ -1,5 +1,9 @@
-.env
-
+#frontend
 /frontend/node_modules
 
+#backend
 /backend/target
+
+# must not change.
+/frontend/.env # important
+/backend/.env # important
