@@ -2,9 +2,9 @@
 UECreator
 
 ## プロジェクト構成
-backend: バックエンド
-frontend: フロントエンド
-shared: 共通の型定義やユーティリティ関数
+- backend: バックエンド
+- frontend: フロントエンド
+- shared: 共通の型定義やユーティリティ関数
 各ディレクトリの詳細は`/doc/directory.txt`を参照してください
 
 ## 開発環境の構築
