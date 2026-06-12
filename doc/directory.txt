@@ -1,0 +1,14 @@
+.
+├─ backend/
+│  ├─ src/          //バックエンドソースコード
+│  ├─ Cargo.toml
+│  └─ .env          //バックエンドの環境設定
+├─ doc/             //開発用ドキュメント             
+├─ frontend/
+│  ├─ public/       //公開用静的ファイル
+│  ├─ src/          //フロントエンドソースコード
+│  ├─ index.html
+│  └─ .env          //フロントエンドの環境設定
+├─ shared/          //共通コンポーネント
+├─ .gitignore
+└─ README.md
